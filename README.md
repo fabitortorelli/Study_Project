@@ -53,7 +53,6 @@ This project focuses on performing univariate analysis on a dataset sourced from
 * **univariate-analysis.ipynb:** Jupyter notebook containing the univariate analysis
 
 ## Analysis Plan
-## Analysis Plan
 1. **Data Preparation:**
 * Load data and address missing values and duplicates
 
